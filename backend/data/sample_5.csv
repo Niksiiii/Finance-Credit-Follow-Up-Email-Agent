@@ -1,0 +1,6 @@
+invoice_no,client_name,client_email,amount,due_date,follow_up_count,status
+TCI-2026-0001,Rahul Sharma,rahul.sharma@infosys.com,45000,2026-04-15,1,PENDING
+TCI-2026-0002,Priya Patel,priya.patel@wipro.com,125000,2026-04-01,3,PENDING
+TCI-2026-0003,Amit Gupta,amit.gupta@tcs.com,78500,2026-05-05,0,PENDING
+TCI-2026-0004,Sneha Reddy,sneha.reddy@hcl.com,250000,2026-03-20,4,PENDING
+TCI-2026-0005,Vikram Singh,vikram.singh@zoho.com,15000,2026-05-10,0,PENDING

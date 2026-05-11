@@ -1,0 +1,24 @@
+# Core
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-dotenv==1.0.1
+pydantic-settings==2.7.1
+
+# Database
+sqlalchemy==2.0.36
+
+# Data Processing
+pandas==2.2.3
+openpyxl==3.1.5
+python-multipart==0.0.20
+
+# LLM / AI
+langchain==0.3.14
+langchain-google-genai==2.0.8
+langchain-community==0.3.14
+
+# Email
+aiosmtplib==3.0.2
+
+# Utilities
+python-dateutil==2.9.0

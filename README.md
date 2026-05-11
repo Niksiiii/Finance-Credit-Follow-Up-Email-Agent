@@ -72,22 +72,32 @@ cd frontend
 streamlit run app.py
 ```
 
+### 4. Access the App
+- **Dashboard:** http://localhost:8501
+- **API Documentation:** http://localhost:8000/docs
+
 ## 📸 Screenshots
 
-### Dashboard Overview
+*(Replace the placeholder paths with the actual paths to your screenshots)*
 
+### Dashboard Overview
+![Dashboard](screenshots/dashboard.png)
 *Provides a high-level overview of total invoices, overdue amounts, recovery rates, and stage distributions.*
 
 ### Follow-Up Queue & Automation
+![Follow-Ups](screenshots/follow_ups.png)
 *Review overdue invoices, start the automation scheduler, or manually trigger the AI agent.*
 
 ### Audit Logs & Full Email Preview
+![Audit Logs](screenshots/audit_logs.png)
 *Complete transparency into all communications sent by the agent, including tone, status, and full email body.*
 
 ### Team & Payment Tracking
+![Team](screenshots/team.png)
 *Record payments, track client responses, and manage your finance team roster.*
 
 ### Upload Invoices
+![Upload](screenshots/upload.png)
 *Easily drag and drop CSV or Excel files to import your pending credit records.*
 
 ## 🔒 Security & Privacy
