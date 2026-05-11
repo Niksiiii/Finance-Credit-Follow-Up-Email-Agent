@@ -4,7 +4,7 @@ Supports SMTP for real sending, and logs for dry-run simulation.
 """
 
 import smtplib
-import loggings
+import logging
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from dataclasses import dataclass
