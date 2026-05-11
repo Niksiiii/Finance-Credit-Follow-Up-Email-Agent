@@ -75,12 +75,8 @@ streamlit run app.py
 ### 4. Access the App
 - **Dashboard:** http://localhost:8501
 - **API Documentation:** http://localhost:8000/docs
-
-## 📸 Screenshots
-
-*(Replace the placeholder paths with the actual paths to your screenshots)*
-
 ### Dashboard Overview
+
 *Provides a high-level overview of total invoices, overdue amounts, recovery rates, and stage distributions.*
 
 ### Follow-Up Queue & Automation
